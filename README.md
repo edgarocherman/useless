@@ -1,4 +1,6 @@
 useless
 =======
 
-project for learning how to use git protocol, useless for anyone else
+project for learning how to use git protocol
+
+Not quite! Have fun. :)
